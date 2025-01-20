@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+xgboost
+tensorflow
+mtcnn
+joblib
+Pillow
+pillow-heif
+tqdm
